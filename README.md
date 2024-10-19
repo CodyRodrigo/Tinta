@@ -1,0 +1,2 @@
+# Tinta
+Primer pagina
